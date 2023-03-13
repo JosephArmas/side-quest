@@ -4,7 +4,7 @@
 ## address: 
 # Education
 ## Associates Arts Degree in Computer Science (Cerritos College 2018)
-## Bachelors of Science in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
+## Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
 # Certifications 
 ## Penetrations Test (TryHackMe) 
 ## Python Automation (Google)
