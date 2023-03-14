@@ -1,9 +1,9 @@
 <h1 align="center">Joseph Armas</h1>
 
-## Email: joseph.armas01@student.csulb.edu
-## Phone number: 
-## Address: 
-## Git: https://github.com/JosephArmas/side-quest/
+## Email: edc6845bffc8b966a4a5ad5dc598cc266dc5ad4ad9399b8ac631dcb149e38530
+## Phone number: (xxx) xxx-xxxxx
+## Address: xxxxx Address ave
+## Git: 617c9477884ed9219f7cc5c4cfdc705c263ef1dbef8a024b6b0213fbc6514494
 # Education
 ## Associates Arts Degree in Computer Science (Cerritos College 2018)
 ## Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
