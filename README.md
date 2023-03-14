@@ -49,17 +49,21 @@
 # Projects
 - Single Web Application
   * Created by using C#, .NET Framework, HTML, CSS and JavaScript 
+  * Geared towards unifying communites and encouraged to build a cleaner environment.
 - Discord realtime crypto tracker
-  * Use of Digital Ocean to have a server regularly grabbing real time prices 
+  * Use of Digital Ocean to have a Server regularly grab real time prices. It is then linked and displayed on my discord server.
 - Linux custom configs / scripts
-  * Commands and scripts to improve productivity and flexibility 
+  * Custom Commands and scripts through CLI to improve productivity and flexibility 
+  * Custom config files to alter Gnome Desktop
+- Client & Server
+  * Created by using Java.
+  * Purpose is to Have one instance on the cloud act a Server and another instance to act as a Client. Both clients are able to communicate by sending messages through an open port.
 - Threat analysis 
-  * Given a scenario of a company, to identify potenital threats and possible mitgations for threats.
-- Database 
-  * Broken down into 2 phases, first part utilizing Sql Alchemy to store to PostgreSQL and Second part is utilzing pymongo to to store to Mongo DB
-  * Design of a database given a prompt and using an ORM (SQL ALCHEMY) to log to database
+  * Given a scenario on a company, Identify potenital threats or vulnerabilites and suggest mitgations for it.
+- Design a database for school employees that are borrowing / loaning keys to certain rooms and buildings.
+  * Design overall structure with Diagrams.io then translated onto Datagrip to make tables.
+  * Broken down into 2 phases
+    * First part creating a console program with Python and utilizing Sql Alchemy(ORM) to store to PostgreSQL 
+    * Second part is Using the same console program, however Utilzing Pymongo to store on Mongo DB 
 - Personal Cloud service using Nextcloud
-  * Use of extra physical storage to store my own personal files and media to be accessed anywhere.
-
-# References
-[https://github.com/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+  * I had extra physical hard drives, therefore I decided to store my own personal files and media on nextcloud that is linked to a custom domain, TLS/SSL for security and also port forwarding on my local router so that it can be accessed anywhere.
