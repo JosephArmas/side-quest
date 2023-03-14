@@ -3,6 +3,7 @@
 ## Email: joseph.armas01@student.csulb.edu
 ## Phone number: 
 ## Address: 
+## Git: https://github.com/JosephArmas/side-quest/
 # Education
 ## Associates Arts Degree in Computer Science (Cerritos College 2018)
 ## Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
@@ -46,9 +47,19 @@
 
 
 # Projects
+- Single Web Application
+  * Created by using C#, .NET Framework, HTML, CSS and JavaScript 
 - Discord realtime crypto tracker
-- linux custom scripts
-- Threat analysis proj
-- database proj + design
-- 491 proj 
-- personal local nextcloud server
+  * Use of Digital Ocean to have a server regularly grabbing real time prices 
+- Linux custom configs / scripts
+  * Commands and scripts to improve productivity and flexibility 
+- Threat analysis 
+  * Given a scenario of a company, to identify potenital threats and possible mitgations for threats.
+- Database 
+  * Broken down into 2 phases, first part utilizing Sql Alchemy to store to PostgreSQL and Second part is utilzing pymongo to to store to Mongo DB
+  * Design of a database given a prompt and using an ORM (SQL ALCHEMY) to log to database
+- Personal Cloud service using Nextcloud
+  * Use of extra physical storage to store my own personal files and media to be accessed anywhere.
+
+# References
+[https://github.com/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
