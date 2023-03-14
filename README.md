@@ -1,20 +1,25 @@
-<h1 align="center">Joseph Armas</h1>
+<h3 align="center">45af8b8a88b3f8088525bdb5ed611d3518b0110c36e700d6ac3b6a940a982f3a</h3>
 
-## Email: edc6845bffc8b966a4a5ad5dc598cc266dc5ad4ad9399b8ac631dcb149e38530
-## Phone number: (xxx) xxx-xxxxx
-## Address: xxxxx Address ave
-## Git: 617c9477884ed9219f7cc5c4cfdc705c263ef1dbef8a024b6b0213fbc6514494
-# Education
-## Associates Arts Degree in Computer Science (Cerritos College 2018)
-## Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
-# Certifications 
-## Penetrations Test (TryHackMe) 
-## Python Automation (Google)
-# Tech Stack
-## LAMP & ASP.NET
-# Technologies
+<h6 align="center">Email: email.com * Phone number: (xxx) xxx-xxxxx * Address: xxxxx Address ave * Git: git.com</h6>
+
+## **Summary**
+I am an aspiring software engineer who has a passion for exploring operating systems and building software applications. I am constantly curious and motivated to acquire new skills that will not only be benficial, but also enhance my growth as a software engineer.
+## **Education**
+### Associates Arts Degree in Computer Science (Cerritos College 2018)
+### Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
+## **Certifications** 
+### Pre Security(TryHackMe) 
+### Cyber Defense(TryHackMe) 
+### Crash Course Python(Google)
+## **Experience**
+I served as a team leader for a duration of a year and adhered to the scrum process to faciliate my group's workflow. I acquired extensive experience in using Linux for 5 years, MacOs and Windows for 2 years. Throughout my undergraduate studies, I gained proficiency in C#, Java, Python, HTML, CSS, JavaScript and SQL.
+## **Tech Stack**
+### LAMP & ASP.NET
+## **Technologies**
 ### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ 
 
 ### Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -46,7 +51,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-# Projects
+### **Projects**
 - Single Web Application
   * Created by using C#, .NET Framework, HTML, CSS and JavaScript 
   * Geared towards unifying communites and encouraged to build a cleaner environment.
@@ -59,11 +64,11 @@
   * Created by using Java.
   * Purpose is to Have one instance on the cloud act a Server and another instance to act as a Client. Both clients are able to communicate by sending messages through an open port.
 - Threat analysis 
-  * Given a scenario on a company, Identify potenital threats or vulnerabilites and suggest mitgations for it.
+  * Given a scenario on a company, I identified 100 potenital threats or vulnerabilites to the company and suggest mitgations for it.
 - Design a database for school employees that are borrowing / loaning keys to certain rooms and buildings.
   * Design overall structure with Diagrams.io then translated onto Datagrip to make tables.
   * Broken down into 2 phases
     * First part creating a console program with Python and utilizing Sql Alchemy(ORM) to store to PostgreSQL 
     * Second part is Using the same console program, however Utilzing Pymongo to store on Mongo DB 
 - Personal Cloud service using Nextcloud
-  * I had extra physical hard drives, therefore I decided to store my own personal files and media on nextcloud that is linked to a custom domain, TLS/SSL for security and also port forwarding on my local router so that it can be accessed anywhere.
+  * I had extra physical hard drives, therefore I decided to store my own personal files and media on Nextcloud that is linked to a custom domain, TLS/SSL for security and also port forwarding on my local router so that it can be accessed anywhere.
