@@ -52,3 +52,4 @@
 - Threat analysis proj
 - database proj + design
 - 491 proj 
+- personal local nextcloud server
