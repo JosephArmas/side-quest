@@ -8,11 +8,11 @@ I am an aspiring software engineer who has a passion for exploring operating sys
 ### Associates Arts Degree in Computer Science (Cerritos College 2018)
 ### Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
 ## **Certifications** 
-### Pre Security(TryHackMe) 
-### Cyber Defense(TryHackMe) 
-### Crash Course Python(Google)
+### Pre Security(TryHackMe 2022) 
+### Cyber Defense(TryHackMe 2022) 
+### Crash Course Python(Google 2022)
 ## **Experience**
-I served as a team leader for a duration of a year and adhered to the scrum process to faciliate my group's workflow. I acquired extensive experience in using Linux for 5 years, MacOs and Windows for 2 years. Throughout my undergraduate studies, I gained proficiency in C#, Java, Python, HTML, CSS, JavaScript and SQL.
+I served as a team leader for a duration of a year and adhered to the scrum process to faciliate my group's workflow. I acquired extensive experience in using Linux for 5 years, MacOs and Windows for 2 years. Throughout my undergraduate studies, I gained proficiency in C#, .NET Framework, Java, Python, HTML, CSS, JavaScript and SQL.
 ## **Tech Stack**
 ### LAMP & ASP.NET
 ## **Technologies**
@@ -47,6 +47,7 @@ I served as a team leader for a duration of a year and adhered to the scrum proc
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -62,13 +63,13 @@ I served as a team leader for a duration of a year and adhered to the scrum proc
   * Custom config files to alter Gnome Desktop
 - Client & Server
   * Created by using Java.
-  * Purpose is to Have one instance on the cloud act a Server and another instance to act as a Client. Both clients are able to communicate by sending messages through an open port.
+  * Purpose is to Have one instance on the cloud act a Server and another instance to act as a Client. Both instances are able to communicate to eachother by sending messages via CLI through an open port.
 - Threat analysis 
-  * Given a scenario on a company, I identified 100 potenital threats or vulnerabilites to the company and suggest mitgations for it.
-- Design a database for school employees that are borrowing / loaning keys to certain rooms and buildings.
+  * Given a scenario on a company, I  analyzed and identified 100 potenital threats and vulnerabilites. Additinally, I have developed a set of suggested mitgations to enhance the company's security.
+- Design a database for school employees that are borrowing keys to certain rooms in a particular building.
   * Design overall structure with Diagrams.io then translated onto Datagrip to make tables.
   * Broken down into 2 phases
-    * First part creating a console program with Python and utilizing Sql Alchemy(ORM) to store to PostgreSQL 
+    * First part creating a console program with Python and utilizing Sql Alchemy (ORM) to store to PostgreSQL 
     * Second part is Using the same console program, however Utilzing Pymongo to store on Mongo DB 
 - Personal Cloud service using Nextcloud
   * I had extra physical hard drives, therefore I decided to store my own personal files and media on Nextcloud that is linked to a custom domain, TLS/SSL for security and also port forwarding on my local router so that it can be accessed anywhere.
