@@ -1,8 +1,8 @@
 <h1 align="center">Joseph Armas</h1>
 
-## email: joseph.armas01@student.csulb.edu
-## phone number: 
-## address: 
+## Email: joseph.armas01@student.csulb.edu
+## Phone number: 
+## Address: 
 # Education
 ## Associates Arts Degree in Computer Science (Cerritos College 2018)
 ## Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
