@@ -5,7 +5,7 @@
 ## **Summary**
 I am an aspiring software engineer who has a passion for exploring operating systems and building software applications. I am constantly curious and motivated to acquire new skills that will not only be benficial, but also enhance my growth as a software engineer.
 ## **Education**
-### Associates Arts Degree in Computer Science (Cerritos College 2018)
+### Associates Arts Degree in Computer Science (Cerritos College 2019)
 ### Bachelors of Science Degree in Computer Science & Minor in CyberSecurity (Cal State Long Beach 2023)
 ## **Certifications** 
 ### Pre Security(TryHackMe 2022) 
@@ -23,7 +23,7 @@ I served as a team leader for a duration of a year and adhered to the scrum proc
 
 ### Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+
 
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
