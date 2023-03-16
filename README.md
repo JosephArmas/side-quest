@@ -16,7 +16,7 @@ Cyber Defense(TryHackMe 2022)\
 Crash Course Python(Google 2022)
 
 ### **Experience**
-I served as a team leader for a duration of a year and adhered to the scrum process to faciliate my group's workflow. I acquired extensive experience in using Linux for 5 years, MacOs and Windows for 2 years. Throughout my undergraduate studies, I gained proficiency in C#, .NET Framework, Java, Python, HTML, CSS, JavaScript, SQL, Virtual Machines and Cloud. Most importantly, I learned to collaborate with other developers and integreate SOLID principles in codebase to ensure it remains maintainable, scalable and extensible.
+I served as a team leader for a duration of a year and adhered to the scrum process to faciliate my group's workflow. I acquired extensive experience in using Linux for 5 years, MacOs and Windows for 2 years. Throughout my undergraduate studies, I gained proficiency in C#, .NET Framework, Java, Python, HTML, CSS, JavaScript, SQL, Virtual Machines and Cloud. A key aspect of my experience involved the developement of critical thinking skills applied to problem-solving, as well as the ability to collaborate with other developers and integreate SOLID principles in codebase to ensure it remains maintainable, scalable and extensible.
 
 ### **Tech Stack**
 LAMP & Microsoft Stack
@@ -39,8 +39,6 @@ LAMP & Microsoft Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-</br>
 <br>
 </br>
 <br>
