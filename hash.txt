@@ -1,6 +1,0 @@
-HMAC-SHA256 (studentID) (-suffix)
-015614792Armas
-key: ZS0dj72a
-
-Base64: +srjvKKc5HQZf0YEYM0IdF8gwFsWA8rkWGDYNhA/o1Y=
-Hex: facae3bca29ce474197f460460cd08745f20c05b1603cae45860d836103fa356
