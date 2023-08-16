@@ -8,6 +8,8 @@ vandalism and abandoned items in California communities. Utiﬁcation utilizes G
 to create visual maps of locations, fostering a cleaner environment.
 
 # [MadWrist - Single Page Application](https://github.com/JosephArmas/side-quest/tree/main/madwrist)
+![](https://github.com/JosephArmas/side-quest/blob/main/assets/wadwrist-demo.gif)
+
 TechStack:\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 - A Web application that focuses on connecting barbers and clients to reserve appointments.
