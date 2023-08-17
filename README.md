@@ -3,7 +3,7 @@
 # [Utification - Single Page Application](https://github.com/JosephArmas/cecs-491A-Team-Big-Data)
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/utification-events.gif)
 
-**TechStack:**\
+### **TechStack:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 A Web application hosted on AWS that aims to promote awareness of litter,
@@ -18,15 +18,30 @@ interactively participate and contribute by joining events
 # [MadWrist - Single Page Application](https://github.com/JosephArmas/side-quest/tree/main/madwrist)
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/wadwrist-demo.gif)
 
-**TechStack:**\
+### **TechStack:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 Developed a cutting-edge web application that streamlines the appointment process by bringing barbers and clients together on one platform.
 - **Simplified Booking**: Clients can effortlessly browse, select, and reserve appointments with their preferred barbers.
-- Creation of this project help familarize with React and TailWindCSS 
 
 
- 
+# [StormBreaker - 3D Graphics Application](https://github.com/JosephArmas/side-quest/tree/main/stormbreaker)
+### **TechStack:** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+Engineered a versatile and immersive virtual environment that simulates real world physics and aesthetics. StormBreaker show cases sophisticated techniques such as collision simulation, dynamic lighting, and textures on surfaces.
+
+ ### Simulation
+ ![](https://github.com/JosephArmas/side-quest/blob/main/assets/collision-simulation.gif)
+
+### Dynamic Lighting
+![](https://github.com/JosephArmas/side-quest/blob/main/assets/lighting.gif)
+
+### Rich Texturing
+![](https://github.com/JosephArmas/side-quest/blob/main/assets/hammer-drop.gif)
+
+### Basic Controls
+![](https://github.com/JosephArmas/side-quest/blob/main/assets/basic-controls.gif)
 
 
 
