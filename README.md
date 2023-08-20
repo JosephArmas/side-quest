@@ -1,9 +1,7 @@
 <h1 align="center">Portfolio</h1>
-<a href="https://github.com/JosephArmas/cecs-491A-Team-Big-Data" target="_blank">Utif</a>
 
 # [Utification - Single Page Application](https://github.com/JosephArmas/cecs-491A-Team-Big-Data)
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/utification-events.gif)
-
 
 
 ### **TechStack:**
