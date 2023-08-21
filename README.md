@@ -47,8 +47,10 @@ Developed a cutting-edge web application that streamlines the appointment proces
 
 
 # [StormBreaker - 3D Graphics Application](https://github.com/JosephArmas/side-quest/tree/main/stormbreaker)
-### **TechStack:** 
 *June 2023 - July 2023*
+
+### **TechStack:** 
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
