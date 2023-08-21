@@ -1,5 +1,8 @@
 <h1 align="center">Portfolio</h1>
 
+<p align="center">Below is a list of key projects that showcase my interests and skills</p>
+
+#
 
 # [Utification - Single Page Application](https://github.com/JosephArmas/cecs-491A-Team-Big-Data) 
 *August 2022 - May 2023*
