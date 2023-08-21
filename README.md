@@ -24,7 +24,11 @@ interactively participate and contribute by joining events
 
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/karmas-demo.gif)
 
-A Web application focusing on UI Components that is commonly built for e-commerce. KARMAS is inspired by big streetwear brands and has an overall theme to the application.
+Engineered a web application that primarily focuses on the use of UI/UX Components to build an e-commerce platform. KARMAS is inspired by popular streetwear brands and has an overall theme to the application.
+- use on any phone
+- dynamic rendering
+- featured hype brands
+- Project served as a template for any future e-commerce related projects.
 
 ### **TechStack:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
