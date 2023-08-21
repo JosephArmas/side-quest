@@ -1,0 +1,7 @@
+.bounce-3s
+{
+  animation: bounce 1s;
+  animation-duration: 3s;
+  anination-iteration-count: infinite;
+
+}
