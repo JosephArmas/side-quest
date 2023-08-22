@@ -17,11 +17,23 @@
 In collaboration with a team of 6, we developed *Utification*, a web application hosted on AWS that serves to promote awareness of litter,
 vandalism and abandoned items in California communities. *Utiﬁcation* utilizes Google Maps API
 to create visual maps of locations, fostering a cleaner environment.
+- Implemented a Microservices backend utilizing a RESTful API using a 5-tier architecture:
+Client, Entry-Point Layer, Manager Layer, Services Layer, & Data Access Layer
+- Served as a Team Lead and Scrum Master for the year long project , applying the scrum
+methodology to facilitate my group's workﬂow.
 - Engineered the entire Events feature and client-side UI functionality for Authentication,
-Authorization, Analytic dashboard, Admin View and Regular User View
-- **Events**: Allow reputable type users the ability to place an
+Authorization, Analytic dashboard, Admin View, Regular User View
+- Developed Low-Level Designs by formulating user stories and adhering to BRD
+speciﬁcations including, Success Scenarios, Failure Scenarios, Functional and
+Non-Functional requirements
+- **Events feature:** allows reputable users on our application the ability to place an
 "event" pin on the map. This allows regular, reputable and service type users to
-interactively participate and contribute by joining events1
+interactively participate and contribute by joining events
+- Completed various technical artifacts such as *Request for Proposal (RFP)*, *Business
+Requirement Document (BRD)* and *DAR Reports*
+
+### Analytic DashBoard
+![](https://github.com/JosephArmas/side-quest/blob/main/assets/analytic-dashboard.gif)
 
 # [KARMAS - UI/UX](https://github.com/JosephArmas/side-quest/tree/main/karmas/SourceCode/front-end)
 *August 2023 - August 2023*
