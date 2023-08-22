@@ -46,7 +46,7 @@ Requirement Document (BRD)* and *DAR Reports*
 Developed a web application that implements innovative UI/UX designs to create a user-centered e-commerce platform. *KARMAS* represents a sophisticated fusion of style, technology, and modern designs inspired by popular renowned streetwear brands.
 - *KARMAS* serves as a template for future e-commerce related projects.
 - **User-Centric Approach:** Implemented intuitive navigation functionality, prioritizing user's interactions, shopping preferences, and visual aesthetics
-- **Response Design:** Optimized for various devices, including smartphones, tablets, and desktops
+- **Responsive Design:** Optimized for various devices, including smartphones, tablets, and desktops
 
   
 
