@@ -22,7 +22,7 @@ Client, Entry-Point Layer, Manager Layer, Services Layer, & Data Access Layer
 - Served as a Team Lead and Scrum Master for the year long project , applying the scrum
 methodology to facilitate my group's workﬂow.
 - Engineered the entire Events feature and client-side UI functionality for Authentication,
-Authorization, Analytic dashboard, Admin View, Regular User View
+Authorization, Regular User View, Admin View, Analytic dashboard
 - Developed Low-Level Designs by formulating user stories and adhering to BRD
 speciﬁcations including, Success Scenarios, Failure Scenarios, Functional and
 Non-Functional requirements
