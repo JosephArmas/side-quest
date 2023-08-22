@@ -71,7 +71,7 @@ Developed a cutting-edge web application that streamlines the appointment proces
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-Engineered a versatile and immersive virtual environment that simulates real world physics and aesthetics. StormBreaker show cases sophisticated techniques such as collision simulation, dynamic lighting, and textures on surfaces.
+Engineered a versatile and immersive virtual environment that simulates real world physics and aesthetics. StormBreaker show cases practical techniques such as collision simulation, dynamic lighting, and textures on surfaces.
 
  ### Simulation
  ![](https://github.com/JosephArmas/side-quest/blob/main/assets/collision-simulation.gif)
