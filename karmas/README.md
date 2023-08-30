@@ -1,4 +1,4 @@
-# Events
+# Event
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/utification-events.gif)
 
 # Analytic Dashboard
