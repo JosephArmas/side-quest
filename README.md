@@ -17,8 +17,8 @@
 In collaboration with a team of 6, we developed *Utification*, a web application hosted on AWS that serves to promote awareness of litter,
 vandalism and abandoned items in California communities. *Utiﬁcation* utilizes Google Maps API
 to create visual maps of locations, fostering a cleaner environment.
-- Implemented a Microservices backend utilizing a RESTful API using a 5-tier architecture:
-Client, Entry-Point Layer, Manager Layer, Services Layer, & Data Access Layer
+- Implemented a Microservices backend architecture comprised of 5 abstraction layers:
+Entry-Point Layer, Manager Layer, Services Layer, Data Access Layer, & Data Store
 - Served as a Team Lead and Scrum Master for the year long project , applying the scrum
 methodology to facilitate my group's workﬂow.
 - Engineered the entire Events feature and client-side UI functionality for Authentication,
