@@ -19,7 +19,7 @@ vandalism and abandoned items in California communities. *Utiﬁcation* utilizes
 to create visual maps of locations, fostering a cleaner environment.
 - Implemented a Microservices backend architecture comprised of 5 abstraction layers:
 Entry-Point Layer, Manager Layer, Services Layer, Data Access Layer, & Data Store
-- Served as a Team Lead and Scrum Master for the year long project , applying the scrum
+- Served as a Team Lead and Scrum Master for the year long project , applying agile
 methodology to facilitate my group's workﬂow.
 - Engineered the entire Events feature and client-side UI functionality for Authentication,
 Authorization, Regular User View, Admin View, Analytic dashboard
