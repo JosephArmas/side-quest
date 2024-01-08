@@ -35,7 +35,7 @@ Requirement Document (BRD)* and *DAR Reports*
 ### Analytic DashBoard
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/analytic-dashboard.gif)
 
-# [KARMAS - UI/UX](https://github.com/JosephArmas/side-quest/tree/main/karmas/SourceCode/front-end)
+# [KARMAS - UI/UX](https://github.com/JosephArmas/side-quest/tree/main/karmas)
 *August 2023 - August 2023*
 
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/karmas-demo.gif)
