@@ -1,0 +1,90 @@
+--TeamBigData.Utification.Features
+CREATE TABLE dbo."Events"
+(
+userID int NOT NULL,
+"disabled" int DEFAULT 0,
+);
+
+CREATE TABLE dbo.Pins
+(
+pinID int NOT NULL Identity,
+userID int NOT NULL,
+lat varchar(50),
+lng varchar(50),
+pinType int,
+"description" varchar(MAX),
+"disabled" int DEFAULT 0,
+dateCreated DateTime default GetUtcDate(),
+dateLastModified DateTime default GetUtcDate(),
+userLastModified int,
+CONSTRAINT Pins_PK PRIMARY KEY (pinID),
+CONSTRAINT Pins_UK UNIQUE (lat,lng)
+);
+
+CREATE TABLE dbo.PinPic
+(
+pinID int NOT NULL,
+"key" varchar(100) NOT NULL,
+CONSTRAINT PinPic_PK PRIMARY KEY(pinID),
+CONSTRAINT PinPic_FK_01 Foreign KEY (pinID) references dbo.Pins(pinID),
+CONSTRAINT PinPic_UK_01 UNIQUE ("key")
+);
+
+CREATE TABLE dbo.ProfilePic
+(
+userID int NOT NULL,
+"key" varchar(100),
+extension varchar(5),
+CONSTRAINT ProfilePic_PK PRIMARY KEY(userID),
+CONSTRAINT ProfilePic_UK_01 UNIQUE ("key")
+);
+
+CREATE TABLE dbo.Reports
+(
+rating decimal(2,1) NOT NULL,
+reportedUserID int NOT NULL,
+reportingUserID int NOT NULL,
+feedback varchar(150) NOT NULL,
+createDate datetime,
+updateDate datetime,
+lastModifierUserID int
+);
+
+CREATE TABLE [dbo].[Services](
+	[ServiceID] [int] IDENTITY(1,1) NOT NULL,
+	[CompanyName] [nvarchar](30) NOT NULL,
+	[CompanyDesc] [nvarchar](1000) NOT NULL,
+	[CompanyPhone] [nvarchar](16) NULL,
+	[CompanyURL] [nvarchar](2048) NULL,
+	[ServiceLat] [varchar](50) NOT NULL,
+	[ServiceLong] [varchar](50) NOT NULL,
+	[PinTypes] [int] NOT NULL,
+	[Distance] [int] NOT NULL,
+	[CreationDate] [date] NOT NULL,
+	[CreatedBy] [int] NULL,
+	[LastModifiedBy] [int] NOT NULL,
+	[ApprovedBy] [int] NULL,
+	[disabled] [int] default 0,
+ CONSTRAINT [IX_Services] UNIQUE NONCLUSTERED 
+(
+	[CreatedBy] ASC,
+	[CompanyName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+CREATE TABLE [dbo].[ServiceRequests](
+	[RequestID] [int] IDENTITY(1,1) NOT NULL,
+	[ServiceID] [int] NOT NULL,
+	[ServiceName] [nvarchar](30) NOT NULL,
+	[RequestedBy] [int] NOT NULL,
+	[RequestLat] [varchar](50) NOT NULL,
+	[RequestLong] [varchar](50) NOT NULL,
+	[PinType] [int] NOT NULL,
+	[CreationDateTime] [datetime] NOT NULL,
+	[Active] [int] NOT NULL,
+	[Accept] [int] NOT NULL,
+	[LastModified] [datetime] NOT NULL,
+	[LastModifiedBy] [int] NOT NULL
+) ON [PRIMARY]
+GO

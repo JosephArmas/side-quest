@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.EventsServices/TeamBigData.Utification.EventsServices.csproj": {}
+  },
+  "projects": {
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Cryptography/TeamBigData.Utification.Cryptography.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Cryptography/TeamBigData.Utification.Cryptography.csproj",
+        "projectName": "TeamBigData.Utification.Cryptography",
+        "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Cryptography/TeamBigData.Utification.Cryptography.csproj",
+        "packagesPath": "/home/baexdot/.nuget/packages/",
+        "outputPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Cryptography/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baexdot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj",
+        "projectName": "TeamBigData.Utification.ErrorResponse",
+        "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj",
+        "packagesPath": "/home/baexdot/.nuget/packages/",
+        "outputPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baexdot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.EventsServices/TeamBigData.Utification.EventsServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.EventsServices/TeamBigData.Utification.EventsServices.csproj",
+        "projectName": "TeamBigData.Utification.EventsServices",
+        "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.EventsServices/TeamBigData.Utification.EventsServices.csproj",
+        "packagesPath": "/home/baexdot/.nuget/packages/",
+        "outputPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.EventsServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baexdot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Logging/TeamBigData.Utification.Logging.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Logging/TeamBigData.Utification.Logging.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Logging/TeamBigData.Utification.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Logging/TeamBigData.Utification.Logging.csproj",
+        "projectName": "TeamBigData.Utification.Logging",
+        "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Logging/TeamBigData.Utification.Logging.csproj",
+        "packagesPath": "/home/baexdot/.nuget/packages/",
+        "outputPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Logging/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baexdot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj",
+        "projectName": "TeamBigData.Utification.Models",
+        "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj",
+        "packagesPath": "/home/baexdot/.nuget/packages/",
+        "outputPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baexdot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Cryptography/TeamBigData.Utification.Cryptography.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Cryptography/TeamBigData.Utification.Cryptography.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj",
+        "projectName": "TeamBigData.Utification.SQLDataAccess",
+        "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/TeamBigData.Utification.SQLDataAccess.csproj",
+        "packagesPath": "/home/baexdot/.nuget/packages/",
+        "outputPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utitification.SQLDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/baexdot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ErrorResponse/TeamBigData.Utification.ErrorResponse.csproj"
+              },
+              "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj": {
+                "projectPath": "/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.Models/TeamBigData.Utification.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

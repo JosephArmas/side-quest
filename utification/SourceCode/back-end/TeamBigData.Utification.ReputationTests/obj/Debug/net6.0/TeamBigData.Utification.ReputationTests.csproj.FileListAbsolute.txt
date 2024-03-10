@@ -1,0 +1,12 @@
+/home/baexdot/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/baexdot/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.csproj.AssemblyReference.cache
+/home/baexdot/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.GeneratedMSBuildEditorConfig.editorconfig
+/home/baexdot/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.AssemblyInfoInputs.cache
+/home/baexdot/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.AssemblyInfo.cs
+/home/baexdot/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.csproj.CoreCompileInputs.cache
+/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.csproj.AssemblyReference.cache
+/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.GeneratedMSBuildEditorConfig.editorconfig
+/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.AssemblyInfoInputs.cache
+/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.AssemblyInfo.cs
+/home/baexdot/git-repos/cecs-491A-Team-Big-Data/SourceCode/back-end/TeamBigData.Utification.ReputationTests/obj/Debug/net6.0/TeamBigData.Utification.ReputationTests.csproj.CoreCompileInputs.cache

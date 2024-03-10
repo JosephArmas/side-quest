@@ -1,0 +1,21 @@
+--InsertUserReport (Inserts a new report)
+CREATE PROCEDURE InsertUserReport @rating decimal(2,1), @reportedUserID int, @reportingUserID int, @feedback varchar(150), @createDate datetime, @updateDate datetime, @lastModifierUser int
+AS
+INSERT INTO dbo.Reports(rating, reportedUserID, reportingUserID, feedback) 
+VALUES (@rating, @reportedUserID, @reportingUserId, @feedback);
+Go
+--NumberOfUserReports (Get total number of reports on a specific user and the cumulative sum of all ratings on that user)
+CREATE PROCEDURE NumberOfUserReports @reportedUser int
+AS
+SELECT rating 
+FROM dbo.Reports 
+WHERE reportedUserID = @reportedUser;
+Go
+--PartitionSelectUserReports (Partition a certain number of reports on a user)
+CREATE PROCEDURE PartitionSelectUserReports @reportedUser int
+AS
+SELECT rating, feedback 
+FROM dbo.Reports 
+WHERE reportedUserID = @reportedUser 
+ORDER BY createDate DESC;
+Go

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TeamBigData.Utification.Models/1.0.0": {
+        "dependencies": {
+          "TeamBigData.Utification.Cryptography": "1.0.0",
+          "TeamBigData.Utification.ErrorResponse": "1.0.0"
+        },
+        "runtime": {
+          "TeamBigData.Utification.Models.dll": {}
+        }
+      },
+      "TeamBigData.Utification.Cryptography/1.0.0": {
+        "runtime": {
+          "TeamBigData.Utification.Cryptography.dll": {}
+        }
+      },
+      "TeamBigData.Utification.ErrorResponse/1.0.0": {
+        "runtime": {
+          "TeamBigData.Utification.ErrorResponse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeamBigData.Utification.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TeamBigData.Utification.Cryptography/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TeamBigData.Utification.ErrorResponse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

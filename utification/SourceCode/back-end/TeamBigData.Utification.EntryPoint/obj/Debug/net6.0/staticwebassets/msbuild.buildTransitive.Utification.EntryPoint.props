@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Utification.EntryPoint.props" />
+</Project>

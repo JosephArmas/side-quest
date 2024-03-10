@@ -1,0 +1,104 @@
+.create-report-container
+{
+    display: none;
+}
+
+#new-rating
+{
+    font-size: 20px;
+    width: 100%;
+}
+
+.report-creation-header
+{    
+    justify-content: center;
+}
+
+.rating-instructions
+{
+    font-size: 25px;
+    margin-left: 43%;
+}
+
+#new-feedback
+{
+    font-size: 18px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid;
+    resize: none;
+}
+
+#submit-report-btn
+{
+    background-color:#CA75FF;
+    color: white;
+    margin-left: 40%;
+    font-size: 15px;
+}
+
+.new-report
+{
+    align-items: center;
+    border: 1px solid;
+    padding: 30px;
+    height: 200px;
+    gap: 30px; 
+    width: 37%;
+    margin-left: 30%;
+}
+
+.rating-box
+{
+    align-items: center;
+    border: 1px solid;
+    margin-left: 45%;
+    width: 13%;
+    overflow: hidden;
+}
+
+.feedback-box
+{
+    align-items: center;
+    border: 3px solid;
+    height: 70%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#cancel-report-creation
+{
+    background-color: #00ACB7;
+    color: white;
+    font-size: 15px;
+}
+
+.reputation-reports-container
+{
+    display: none;
+}
+
+#map-return-button
+{
+    background-color: #CA75FF;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.reputation-controls
+{
+    margin-left: 27%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    overflow: hidden;
+}
+
+.new-report-btn #create-report-btn
+{
+    background-color: #CA75FF;
+    color: white;
+    font-size: 40px;
+    margin-left: 42%;
+    overflow: hidden;
+}
