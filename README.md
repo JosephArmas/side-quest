@@ -4,7 +4,9 @@
 
 #
 
-# [Utification - Single Page Application](https://github.com/JosephArmas/cecs-491A-Team-Big-Data) 
+# [Utification - Single Page Application](https://github.com/JosephArmas/side-quest/tree/main/utification) 
+Repo: [https://github.com/JosephArmas/side-quest/tree/main/utification](https://github.com/JosephArmas/side-quest/tree/main/utification)
+
 *August 2022 - May 2023*
 
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/utification-events.gif)
