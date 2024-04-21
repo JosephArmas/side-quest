@@ -1,5 +1,6 @@
 # Booking Appointment Functionality 
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/wadwrist-demo.gif)
+
 *July 2023 - July 2023*
 
 ### **TechStack:**
