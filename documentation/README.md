@@ -1,6 +1,3 @@
-    [DESIGN REVIEW](https://github.com/JosephArmas/side-quest/tree/main/documentation/utification/design%20review) |
-![](https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/design_review_preview.png)|
-
 <table>
   <tr>
     <td>
