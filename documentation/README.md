@@ -8,7 +8,7 @@
         </a>
       </h4>
        <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/RFP/CECS491A-RFPv6.pdf"> 
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/rfp_preview.png">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/rfp_preview.png">
       </a> 
     </td>
     <td>
@@ -18,7 +18,7 @@
         </a>
       </h4>
       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/BRD/CECS491A-BRD%20V8.pdf"> 
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/brd_preview.png">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/brd_preview.png">
       </a> 
     </td>
     <td>
@@ -28,7 +28,7 @@
         </a>
       </h4>
       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/bill%20of%20materials/Software%20Bill%20of%20Materials%20v2.pdf"> 
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/bom_preview.png">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/bom_preview.png">
       </a> 
     </td>
   </tr>
@@ -40,7 +40,7 @@
         </a>
       </h4>
       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/SQL%20Instructions/README.txt"> 
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/sql_preview.png">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/sql_preview.png">
       </a> 
     </td>
     <td>
@@ -50,7 +50,7 @@
         </a>
       </h4>
       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf"> 
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/aws_preview.png">
       </a> 
     </td>
     <td>
@@ -60,7 +60,7 @@
         </a>
       </h4>
       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/design%20review/Picture%20Upload%20Peer%20Review.pdf"> 
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/design_review_preview.png">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/design_review_preview.png">
       </a> 
     </td>
   </tr>  
