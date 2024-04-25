@@ -46,11 +46,11 @@
     <td>
       <!-- AWS -->
       <h4 align="center">
-        <a href="">AWS INSTRUCTIONS
+        <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">AWS INSTRUCTIONS
         </a>
       </h4>
-      <a href=""> 
-        <img src="">
+      <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf"> 
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">
       </a> 
     </td>
     <td>
