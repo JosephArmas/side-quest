@@ -55,10 +55,11 @@
     </td>
     <td>
       <!-- Design Review -->
-      <a href="">
-        <h4>DESIGN REVIEW</h4>
-      </a>
-      <a href=""> 
+      <h4 align="center">
+        <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/design%20review/Picture%20Upload%20Peer%20Review.pdf">DESIGN REVIEW
+        </a>
+      </h4>
+      <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/design%20review/Picture%20Upload%20Peer%20Review.pdf"> 
         <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/.assets/design_review_preview.png">
       </a> 
     </td>
