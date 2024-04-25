@@ -36,3 +36,5 @@ Step 6. Granting Insert Permission on Logs
 	Enter in the SQL query GRANT INSERT on dbo.Logs to AppUser
 
 *No manual data has to be inputed for testing, but you have to run Registration Tests before Authentication Tests for it to populate the database
+
+[Running on Linux with Docker instructions can be found here]()
