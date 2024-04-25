@@ -39,9 +39,9 @@
         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation/utification/SQL%20Instructions">SQL INSTRUCTIONS
         </a>
       </h4>
-      <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/SQL%20Instructions/README.txt"> 
+      <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/SQL%20Instructions/README.md "> 
         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/sql_preview.png">
-      </a> 
+      </a>
     </td>
     <td>
       <!-- AWS -->
