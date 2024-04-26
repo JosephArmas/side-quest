@@ -3,10 +3,11 @@
 
 <h2 align="center">Utification Events</h2>
 
-| Create Event | Events Cancel Prompt | Events Home View | Events Created View |
+| Create Event | Events Cancel Prompt | Events View | Events Created View |
 |--------------|----------------------|------------------|---------------------|
-|![]()         | 
+|![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Create-event-view.png)         | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-cancel-prompt.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-home.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-created.png)
 | Joined Events | Modify Event | Modify Events Description | Modify Event Title | 
+| ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-joined.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-Event.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-event-desc.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-events-title.png)
 
 
 <!-- <table> -->
