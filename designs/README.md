@@ -29,7 +29,9 @@
   </li>
 </ul>
 
-<h2 id="database" align="center">Database Design (Keyhooks)</h2>
+<h2 id="database" align="center">
+  <a href="https://github.com/JosephArmas/side-quest/tree/main/designs/keyhooks">Database Design (Keyhooks)</a>
+</h2>
 <h6 align="center">Created using Diagrams.net and Vertabelo</h6>
 
 <table>
