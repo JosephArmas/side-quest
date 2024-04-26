@@ -1,11 +1,10 @@
 <h1 align="center">Portfolio</h1>
 
-<p align="center">Below is a list of key projects that showcase my interests and skills</p>
+<h4 align="center">Below is a list of key projects that showcase my interests and skills</h4>
 
 #
 
 # [Utification - Single Page Application](https://github.com/JosephArmas/side-quest/tree/main/utification) 
-Repo: [https://github.com/JosephArmas/side-quest/tree/main/utification](https://github.com/JosephArmas/side-quest/tree/main/utification)
 
 *August 2022 - May 2023*
 
@@ -38,6 +37,8 @@ to create visual maps of locations, fostering a cleaner environment.
 - **Events feature:** allows reputable users on our application the ability to place an
 "event" pin on the map. This allows regular, reputable and service type users to
 interactively participate and contribute by joining events
+
+Original Repo: [https://github.com/JosephArmas/side-quest/tree/main/utification](https://github.com/JosephArmas/side-quest/tree/main/utification)
 
 ### Analytic DashBoard
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/analytic-dashboard.gif)
