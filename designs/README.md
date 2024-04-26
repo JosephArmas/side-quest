@@ -9,6 +9,14 @@
 | Joined Events | Modify Event | Modify Events Description | Modify Event Title | 
 | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-joined.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-Event.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-event-desc.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-events-title.png)
 
+<table>
+  <tr>
+    <td>
+      <h4>Create Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Create-event-view.png">
+    </td>
+  </tr>
+</table>
 
 <!-- <table> -->
 <!--   <h2 align="center">Utification Events</h2> -->
