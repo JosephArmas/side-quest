@@ -101,6 +101,10 @@
   </tr>
   <tr>
     <td>
+      <h4 align="center">Regular User View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/home/reg/Home%20View.png">
+    </td>
+    <td>
       <h4 align="center">User Management View</h4>
       <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/user-management/User%20Mangement%20view%20(admin).png">
     </td>
