@@ -1,4 +1,4 @@
-# Website Demo
+# KARMAS Demo
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/karmas-demo.gif)
 
 *August 2023 - August 2023*
