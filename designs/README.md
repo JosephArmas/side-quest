@@ -12,8 +12,38 @@
 <table>
   <tr>
     <td>
-      <h4>Create Event</h4>
+      <h4 align="center">Create Event</h4>
       <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Create-event-view.png">
+    </td>
+    <td>
+      <h4 align="center">Creates Cancel Prompt</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-cancel-prompt.png">
+    </td>
+    <td>
+      <h4 align="center">Events view</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-home.png">
+    </td>
+    <td>
+      <h4 align="center">Events Created view</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-created.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Joined Events</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-joined.png">
+    </td>
+    <td>
+      <h4 align="center">Modify Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-Event.png">
+    </td>
+    <td>
+      <h4 align="center">Modify Event Description</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-event-desc.png">
+    </td>
+    <td>
+      <h4 align="center">Modify Event Title</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-events-title.png">
     </td>
   </tr>
 </table>
