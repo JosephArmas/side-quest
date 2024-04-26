@@ -70,11 +70,7 @@ Original Repo: [https://github.com/JosephArmas/side-quest/tree/main/utification]
 </h1>
 
 **Timeline:** October 2022 - December 2022
-## Team Lead: Joseph Armas
-
-### Team Members:
-- Ciena Barraquias
-- Justin Hoang
+### **Role:** *Team Lead, Developer* 
 
 ### TechStack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
