@@ -3,24 +3,37 @@
 
 <ul>
   <li>
-    <a href="#events">
-      <span>Utification Events Figma</span>
-    </a>
-  </li>
-  <li>
-    <a href="#front-end">
-      <span>Utification Front End Figma</span>
-    </a>
-  </li>
-  <li>
     <a href="#database">
       <span>Database Design</span>
     </a>
   </li>
+  <li>
+    <a href="#events">
+      <span>Utification Figma Events Views</span>
+    </a>
+  </li>
+  <li>
+    <a href="#front-end">
+      <span>Utification Figma Front End Views</span>
+    </a>
+  </li>
 </ul>
 
+<h2 id="database" align="center">Database Design (Keyhooks)</h2>
+<table>
+  <tr>
+    <td>
+      <h4 align="center">UML</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/keyhooks/hooks_updated.png">
+    </td>
+    <td>
+      <h4 align="center">ERD</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/keyhooks/key_hook_updated_erd.png">
+    </td>
+  </tr>
+</table>
 
-<h2 id="events" align="center">Utification Events</h2>
+<h2 id="events" align="center">Utification Events Figma Views</h2>
 
 <table>
   <tr>
@@ -61,7 +74,7 @@
   </tr>
 </table>
 
-<h2 id="front-end" align="center">Utification Front End Views</h2>
+<h2 id="front-end" align="center">Utification Front End Figma Views</h2>
 
 <table>
   <tr>
@@ -152,19 +165,7 @@
   </tr>
 </table>
 
-<h2 id="database" align="center">Database Design (Keyhooks)</h2>
-<table>
-  <tr>
-    <td>
-      <h4 align="center">UML</h4>
-      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/keyhooks/hooks_updated.png">
-    </td>
-    <td>
-      <h4 align="center">ERD</h4>
-      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/keyhooks/key_hook_updated_erd.png">
-    </td>
-  </tr>
-</table>
+
 
 <h3 align="center">
   <a href="#top">Back To Top</a>
