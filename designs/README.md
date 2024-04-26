@@ -17,6 +17,16 @@
       <span>Utification Figma Front End Views</span>
     </a>
   </li>
+  <li>
+    <a href="#lld-success">
+      <span>Utification Events Low Level Diagram Success</span>
+    </a>
+  </li>
+  <li>
+    <a href="#lld-fail">
+      <span>Utification Events Low Level Diagram Fail</span>
+    </a>
+  </li>
 </ul>
 
 <h2 id="database" align="center">Database Design (Keyhooks)</h2>
@@ -165,6 +175,70 @@
   </tr>
 </table>
 
+
+<h2 id="lld-success" align="center">Events Low Level Designs Success</h2>
+<table>
+  <tr>
+    <td>
+      <h4 align="center">Successful Cancel Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/success/png/event-cancel-success.png">
+    </td>
+    <td>
+      <h4 align="center">Successful Create Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/success/png/event-create-success.png">
+    </td>
+    <td>
+      <h4 align="center">Successful Display Attendance Count</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/success/png/event-display-attendance.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Successful Join Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/success/png/event-join-successful.png">
+    </td>
+    <td>
+      <h4 align="center">Successful Modifly Event Title</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/success/png/event-mod-title-success.png">
+    </td>
+    <td>
+      <h4 align="center">Successful Modify Event Description</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/success/png/event-modification-description-success.png">
+    </td>
+  </tr>
+</table>
+
+<h2 id="lld-fail" align="center">Events Low Level Designs Fail</h2>
+<table>
+  <tr>
+    <td>
+      <h4 align="center">Fail Create Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/failures/png-fail/event-creation-fail.png">
+    </td>
+    <td>
+      <h4 align="center">Fail Create Event 7 Days</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/failures/png-fail/event-create-fail-7day-fail.png">
+    </td>
+    <td>
+      <h4 align="center">Fail Display Attendance Count</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/failures/png-fail/events-display-attendance-fail.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Fail Join Event</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/failures/png-fail/event-joining-fail.png">
+    </td>
+    <td>
+      <h4 align="center">Fail Modifly Event Title</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/failures/png-fail/event-modify-title-fail.png">
+    </td>
+    <td>
+      <h4 align="center">Fail Modify Event Description</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Events/failures/png-fail/even-modification-description-fail.png">
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">
