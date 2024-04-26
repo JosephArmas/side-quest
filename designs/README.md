@@ -30,7 +30,7 @@
 </ul>
 
 <h2 id="database" align="center">Database Design (Keyhooks)</h2>
-<h6 align="center">Created using Diagrams.net and Vertabelo</span>
+<h6 align="center">Created using Diagrams.net and Vertabelo</h6>
 
 <table>
   <tr>
@@ -179,7 +179,8 @@
 
 
 <h2 id="lld-success" align="center">Events Low Level Designs Success</h2>
-<h6 align="center">Created using Mermaid.js</span>
+<h6 align="center">Created using Mermaid.js</h6>
+
 <table>
   <tr>
     <td>
@@ -212,7 +213,8 @@
 </table>
 
 <h2 id="lld-fail" align="center">Events Low Level Designs Fail</h2>
-<h6 align="center">Created using Mermaid.js</span>
+<h6 align="center">Created using Mermaid.js</h6>
+
 <table>
   <tr>
     <td>
