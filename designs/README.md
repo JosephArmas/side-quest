@@ -3,12 +3,6 @@
 
 <h2 align="center">Utification Events</h2>
 
-| Create Event | Events Cancel Prompt | Events View | Events Created View |
-|--------------|----------------------|------------------|---------------------|
-|![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Create-event-view.png)         | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-cancel-prompt.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-home.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-created.png)
-| Joined Events | Modify Event | Modify Events Description | Modify Event Title | 
-| ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Events-joined.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-Event.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-event-desc.png) | ![](https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/Modify-events-title.png)
-
 <table>
   <tr>
     <td>
@@ -48,70 +42,89 @@
   </tr>
 </table>
 
-<!-- <table> -->
-<!--   <h2 align="center">Utification Events</h2> -->
-<!--   <tr> -->
-<!--     <td> -->
-<!--       <!-- RFP --> 
-<!--       <h4 align="center"> -->
-<!--         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation/utification/RFP">RFP -->
-<!--         </a> -->
-<!--       </h4> -->
-<!--        <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/RFP/CECS491A-RFPv6.pdf">  -->
-<!--         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/rfp_preview.png"> -->
-<!--       </a>  -->
-<!--     </td> -->
-<!--     <td> -->
-<!--       <!-- BRD --> 
-<!--       <h4 align="center"> -->
-<!--         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation/utification/BRD">BRD -->
-<!--         </a> -->
-<!--       </h4> -->
-<!--       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/BRD/CECS491A-BRD%20V8.pdf">  -->
-<!--         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/brd_preview.png"> -->
-<!--       </a>  -->
-<!--     </td> -->
-<!--     <td> -->
-<!--       <!-- BOM --> 
-<!--       <h4 align="center"> -->
-<!--         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation/utification/bill%20of%20materials">BOM -->
-<!--         </a> -->
-<!--       </h4> -->
-<!--       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/bill%20of%20materials/Software%20Bill%20of%20Materials%20v2.pdf">  -->
-<!--         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/bom_preview.png"> -->
-<!--       </a>  -->
-<!--     </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td> -->
-<!--       <!-- SQL --> 
-<!--       <h4 align="center"> -->
-<!--         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation/utification/SQL%20Instructions">SQL INSTRUCTIONS -->
-<!--         </a> -->
-<!--       </h4> -->
-<!--       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/SQL%20Instructions/README.md ">  -->
-<!--         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/sql_preview.png"> -->
-<!--       </a> -->
-<!--     </td> -->
-<!--     <td> -->
-<!--       <!-- AWS --> 
-<!--       <h4 align="center"> -->
-<!--         <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">AWS INSTRUCTIONS -->
-<!--         </a> -->
-<!--       </h4> -->
-<!--       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">  -->
-<!--         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/aws_preview.png"> -->
-<!--       </a>  -->
-<!--     </td> -->
-<!--     <td> -->
-<!--       <!-- Design Review --> 
-<!--       <h4 align="center"> -->
-<!--         <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/design%20review/Picture%20Upload%20Peer%20Review.pdf">DESIGN REVIEW -->
-<!--         </a> -->
-<!--       </h4> -->
-<!--       <a href="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/design%20review/Picture%20Upload%20Peer%20Review.pdf">  -->
-<!--         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/design_review_preview.png"> -->
-<!--       </a>  -->
-<!--     </td> -->
-<!--   </tr>   -->
-<!-- </table> -->
+<h2 align="center">Utification Front End Views</h2>
+
+<table>
+  <tr>
+    <td>
+      <h4 align="center">Anon View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/anon/anon%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Login View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/login/Login%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Account Register View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/register/Account%20Register%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Account Recovery View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/account-recovery/Account%20Recovery%20view.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Update Profile View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/nav-profile-update/update%20profile(prof-nav)%20view.png">
+    </td>
+    <td>
+      <h4 align="center">OTP View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/otp/OTP%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Parent Consent Form View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/parental-consent/parental%20consent%20form%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Update Profile Nav Bar</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/profile-nav/profile-navbar.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Update Profile View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/update-profile/update%20profile%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Change Password View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/change-password/Change%20password%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Change Username View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/change-username/Change%20username%20view.png">
+    </td>
+    <td>
+      <h4 align="center">Admin View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/home/admin/admin%20view.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">User Management View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/user-management/User%20Mangement%20view%20(admin).png">
+    </td>
+    <td>
+      <h4 align="center">Analytics View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/analytics/analytics-preview.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Analytics Logins View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/analytics/Analytics%20-%20Logins.png">
+    </td>
+    <td>
+      <h4 align="center">Analytics Registrations View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/analytics/Analytics%20-%20Registrations.png">
+    </td>
+    <td>
+      <h4 align="center">Analytics Maps View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/analytics/Analytics%20-%20Maps.png">
+    </td>
+    <td>
+      <h4 align="center">Analytics Pin View</h4>
+      <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/analytics/Analytics%20-%20Pins.png">
+    </td>
+  </tr>
+</table>
