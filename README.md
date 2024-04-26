@@ -1,10 +1,29 @@
-<h1 align="center">Portfolio</h1>
+<h1 id="top" align="center">Portfolio</h1>
 
 <h4 align="center">Below is a list of key projects that showcase my interests and skills</h4>
+<ul>
+ <li>
+  <a href="#utif">Utification - Single Page Application</a>
+ </li>
+ <li>
+  <a href="#keyhook">Database Design</a>
+ </li>
+ <li>
+  <a href="#stormbreaker">StromBreaker - 3D Graphics Application</a>
+ </li>
+ <li>
+  <a href="#madwrist">MadWrist - Single Page Application</a>
+ </li>
+ <li>
+  <a href="#scripts">Scripts</a>
+ </li>
+</ul>
 
 #
 
-# [Utification - Single Page Application](https://github.com/JosephArmas/side-quest/tree/main/utification) 
+<h1 id="utif">
+ <a href="https://github.com/JosephArmas/side-quest/tree/main/utification">Utification - Single Page Application</a>
+</h1>
 
 *August 2022 - May 2023*
 
@@ -43,7 +62,10 @@ Original Repo: [https://github.com/JosephArmas/side-quest/tree/main/utification]
 ### Analytic DashBoard
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/analytic-dashboard.gif)
 
-# [Keyhooks - Database Design](https://github.com/JosephArmas/side-quest/tree/main/keyhooks)
+<h1 id="keyhook">
+ <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">Keyhooks - Database Design</a>
+</h1>
+
 **Timeline:** October 2022 - December 2022
 ## Team Lead: Joseph Armas
 
@@ -79,7 +101,10 @@ The project's objective develop a database infrastructure that manages the key i
 
 [![Refactored Code Using MongoDB](https://ytcards.demolab.com/?id=A3IeQM8w8BY&title=Refactored+Code+Using+MongoDB+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356 "Refactored Code Using MongoDB")](https://youtu.be/A3IeQM8w8BY)
 
-# [KARMAS - UI/UX](https://github.com/JosephArmas/side-quest/tree/main/karmas)
+<h1 id="karmas">
+ <a href="https://github.com/JosephArmas/side-quest/tree/main/karmas">KARMAS - UI/UX</a>
+</h1>
+
 *August 2023 - August 2023*
 
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/karmas-demo.gif)
@@ -92,11 +117,10 @@ Developed a web application that implements innovative UI/UX designs to create a
 - **User-Centric Approach:** Implemented intuitive navigation functionality, prioritizing user's interactions, shopping preferences, and visual aesthetics
 - **Responsive Design:** Optimized for various devices, including smartphones, tablets, and desktops
 
-  
+<h1 id="stormbreaker">
+ <a href="https://github.com/JosephArmas/side-quest/tree/main/stormbreaker">StormBreaker - 3D Graphics Application</a>
+</h1>
 
-
-
-# [StormBreaker - 3D Graphics Application](https://github.com/JosephArmas/side-quest/tree/main/stormbreaker)
 *June 2023 - July 2023*
 
 ### **TechStack:** 
@@ -119,8 +143,10 @@ Engineered a versatile and immersive virtual environment that simulates real wor
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/basic-controls.gif)
 
 
+<h1 id="madwrist">
+ <a href="https://github.com/JosephArmas/side-quest/tree/main/madwrist">MadWrist - Single Page Application</a>
+</h1>
 
-# [MadWrist - Single Page Application](https://github.com/JosephArmas/side-quest/tree/main/madwrist)
 *July 2023 - July 2023*
 
 ![](https://github.com/JosephArmas/side-quest/blob/main/assets/wadwrist-demo.gif)
@@ -131,4 +157,21 @@ Engineered a versatile and immersive virtual environment that simulates real wor
 Developed a cutting-edge web application that streamlines the appointment process by bringing barbers and clients together on one platform.
 - **Simplified Booking**: Clients can effortlessly browse, select, and reserve appointments with their preferred barbers.
 
+<h1 id="scripts">
+ <a href="https://github.com/JosephArmas/side-quest/tree/main/script%20kiddie">Script Kiddie</a>
+</h1>
 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Common utilized commands put into a script to quickly exectue 
+- [Update](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/update.sh)
+- [Upgrade](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/upgrade.sh)
+- [Performance](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/overclock.sh)
+- [Powersave](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/powersave.sh)
+- [SetFanSpeed](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/set_fan_speed.sh)
+- [CpuPumpSpeed](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/pumpspeed.sh)
+- [Vpn](https://github.com/JosephArmas/side-quest/blob/main/script%20kiddie/vpn.sh)
+
+
+<h3 align="center">
+ <a href="#top">Back To Top</a>
+</h3>
