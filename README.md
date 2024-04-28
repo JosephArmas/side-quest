@@ -78,6 +78,14 @@ Original Repo: [https://github.com/JosephArmas/side-quest/tree/main/utification]
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 The project's objective develop a database infrastructure that manages the key issuance process for school building access. The system ensures keys are allocated to employees and faculty strictly based on proper requests, while tracking the distribution and return of keys. The project is broken down into 3 phases.
+
+- ‭Led a team of three through three project phases, ensuring a timely and successful completion of each‬
+‭stage, while maintaining team collaboration
+- ‭Designed a comprehensive database infrastructure using UML and Vertabelo, optimizing system‬
+‭architecture and aligning with technical requirements
+- ‭Developed a terminal base application using ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
 ### [Phase 1. UML, ERD, Pseudo Code](https://github.com/JosephArmas/side-quest/tree/main/keyhooks/phase1)
 | UML     | ERD     | Pseudo Code |
